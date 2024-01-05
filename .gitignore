@@ -1,0 +1,45 @@
+# Arquivos de compilação e diretórios
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.suo
+*.user
+
+# Arquivos de projeto
+*.vbproj.user
+*.vbproj.*.user
+*.config.user
+
+# Arquivos de solução
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.nupkg
+*.[Cc]ache
+*.[Rr]esx
+*.ncb
+*.sdf
+*.mdf
+*.ldf
+*.kproj
+*.userprefs
+*.vsp
+*.vspx
+
+# Arquivos temporários
+*.log
+*.tmp
+*.temp
+*_Temp
+*.bak
+*.backup
+
+# Outros
+packages/
+*.DS_Store
+Thumbs.db
